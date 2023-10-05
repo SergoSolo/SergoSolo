@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
 [![codewars](https://www.codewars.com/users/SergoSolo/badges/large)](https://www.codewars.com/users/SergoSolo)
