@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![codewars](https://www.codewars.com/users/SergoSolo/badges/small)]
 <!--
 **SergoSolo/SergoSolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
